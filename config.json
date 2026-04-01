@@ -1,0 +1,20 @@
+{
+  "clubName": "IvoireChess Club",
+  "password": "chess2024",
+  "players": [
+    "hikaru",
+    "magnuscarlsen",
+    "fabianocaruana",
+    "anishgiri",
+    "ding_liren"
+  ],
+  "announcement": {
+    "title": "Tournoi mensuel — Novembre 2025 🏆",
+    "body": "Le prochain tournoi interne aura lieu le samedi 30 novembre. Inscriptions ouvertes jusqu'au 28 novembre."
+  },
+  "rewards": {
+    "first": 10000,
+    "second": 5000,
+    "third": 2500
+  }
+}
